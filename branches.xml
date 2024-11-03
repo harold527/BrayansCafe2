@@ -1,15 +1,21 @@
 <!DOCTYPE branches SYSTEM "dtds/branches.dtd">
 <branches>
     <branch>
-        <address>123 Coffee Street, Cityville</address>
-        <phone>(123) 456-7890</phone>
+        <address>76 Devonshire St, Surry Hills NSW</address>
+        <phone>02 9211 1234</phone>
         <hours>Mon - Fri: 6:00 to 14:30, Sat-Sun: 7:00 to 15:00</hours>
-        <map>https://maps.google.com/?q=123+Coffee+Street</map>
+        <map>https://maps.app.goo.gl/bPSZwcr7GEaxieoZA</map>
     </branch>
     <branch>
-        <address>456 Brew Ave, Townsville</address>
-        <phone>(987) 654-3210</phone>
-        <hours>Mon - Fri: 7:00 to 16:00, Sat-Sun: 8:00 to 14:00</hours>
-        <map>https://maps.google.com/?q=456+Brew+Ave</map>
+        <address>451 Pitt St, Haymarket Sydney,NSW</address>
+        <phone>02 9262 5678</phone>
+        <hours>Mon - Fri: 6:00 to 16:00, Sat-Sun: 7:00 to 15:00</hours>
+        <map>https://maps.app.goo.gl/LqLFKduGHQFsLh8t5</map>
+    </branch>
+    <branch>
+        <address>31 Alfred Street, Circular Quay, NSW</address>
+        <phone>02 8971 9101</phone>
+        <hours>Mon - Fri: 6:00 to 16:00, Sat-Sun: 7:00 to 15:00</hours>
+        <map>https://maps.app.goo.gl/m6tgJwcMXn6qSLY96</map>
     </branch>
 </branches>
