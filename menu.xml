@@ -43,19 +43,16 @@
 	
     <beverages id="d5">
         <name>Small</name>
-        <description></description>
         <price>$3.50</price>
         <image format="webp">images/small.jpg</image>
     </beverages>
 	<beverages id="d6">
         <name>Regular</name>
-        <description></description>
         <price>$4.00</price>
         <image format="webp">images/regular.jpg</image>
     </beverages>
 	<beverages id="d7">
         <name>Large</name>
-        <description></description>
         <price>$4.50</price>
         <image format="webp">images/large.jpg</image>
     </beverages>
@@ -63,19 +60,16 @@
 
 	<beveragesO id="d8">
         <name>Soda</name>
-        <description></description>
         <price>$3.00</price>
         <image format="webp">images/soda.jpg</image>
     </beveragesO>
 	<beveragesO id="d9">
         <name>Fresh juice</name>
-        <description></description>
         <price>$6.00</price>
         <image format="webp">images/juice.jpg</image>
     </beveragesO>
 	<beveragesO id="d10">
         <name>Bottled water</name>
-        <description></description>
         <price>$2.00</price>
         <image format="webp">images/water.jpg</image>
     </beveragesO>
