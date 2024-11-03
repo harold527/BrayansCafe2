@@ -54,8 +54,17 @@ main {
     font-size: 3em;
 	margin-top:-120px;
 	
+	
 }
-
+  .outlined-text {
+    font-size: 48px;
+    color: black;
+    text-shadow: 
+      1px 1px 0 #ffffff,  /* White outline */
+     -1px 1px 0 #ffffff,  
+      1px -1px 0 #ffffff, 
+     -1px -1px 0 #ffffff;
+  }
 .banner p {
     font-size: 1.2em;
 		margin-top:-25px;
