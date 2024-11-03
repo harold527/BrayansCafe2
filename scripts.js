@@ -97,12 +97,14 @@ function displayBranches(xml) {
             const address = branch.getElementsByTagName('address')[0]?.textContent || 'No Address';
             const phone = branch.getElementsByTagName('phone')[0]?.textContent || 'No Phone';
             const mapLink = branch.getElementsByTagName('map')[0]?.textContent || '#';
+            const hours = branch.getElementsByTagName('hours')[0]?.textContent || '#';
 
             const item = document.createElement('div');
             item.className = 'branch-item';
             item.innerHTML = `
                 <p><strong>Address:</strong> ${address}</p>
                 <p><strong>Phone:</strong> ${phone}</p>
+		<p><strong>Hours:</strong> ${hours}</p>
                 <a href="${mapLink}" target="_blank">View on Map</a>
             `;
             list.appendChild(item);
