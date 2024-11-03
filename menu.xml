@@ -56,19 +56,25 @@
         <price>$4.50</price>
         <image format="webp">images/large.jpg</image>
     </beverages>
+	<beverages id="d8">
+        <name>Hot Chocolate</name>
+        <price>Price same as coffe size</price>
+        <image format="webp">images/chocolate.jpg</image>
+    </beverages>
 
 
-	<beveragesO id="d8">
+
+	<beveragesO id="d9">
         <name>Soda</name>
         <price>$3.00</price>
         <image format="webp">images/soda.jpg</image>
     </beveragesO>
-	<beveragesO id="d9">
+	<beveragesO id="d10">
         <name>Fresh juice</name>
         <price>$6.00</price>
         <image format="webp">images/juice.jpg</image>
     </beveragesO>
-	<beveragesO id="d10">
+	<beveragesO id="d11">
         <name>Bottled water</name>
         <price>$2.00</price>
         <image format="webp">images/water.jpg</image>
