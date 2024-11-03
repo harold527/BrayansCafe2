@@ -58,7 +58,7 @@
     </beverages>
 	<beverages id="d8">
         <name>Hot Chocolate</name>
-        <price>Price same as coffe size</price>
+        <price>Same price as coffe size</price>
         <image format="webp">images/chocolate.jpg</image>
     </beverages>
 
